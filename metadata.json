@@ -1,0 +1,6 @@
+{
+  "name": "3D Interactive Blooming Garden",
+  "description": "A magical dark canvas where vibrant, colorful 3D flowers organically grow and bloom wherever you click or tap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
